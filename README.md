@@ -8,7 +8,7 @@ Content covered in the course:
 • Redux-Testing 'Jest' testing framework. (You can find this code under Test folder). 
 • Functional Programming.
 
-This is a very simple UI app, I encourage you to have a look at the code please, the interesting part is in Store folder where you will find all the Redux code.
+This is a very simple UI app where you can mark a Bug as resolved, I encourage you to have a look at the code please, the interesting part is in Store folder where you will find all the Redux code.
 
 
 
