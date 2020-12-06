@@ -1,0 +1,35 @@
+.wrapper {
+  background-color: var(--white);
+  margin: 60px auto;
+  width: 50%;
+  height: 50%;
+  padding: 30px;
+}
+
+ul {
+  text-decoration: none;
+  color: var(--red);
+  font-family: 'Abril Fatface', cursive;
+  font-size: 32px;
+}
+li {
+  list-style: none;
+  margin: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+h2 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 32px;
+}
+
+button {
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  background-color: transparent;
+  border: 1px solid #5e6261;
+  padding: 20px;
+  cursor: pointer;
+  font-family: 32px;
+}
